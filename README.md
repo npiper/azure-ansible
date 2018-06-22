@@ -2,6 +2,8 @@
 
 ## Deployment Overview
 
+Account: n_piper@outlook.com (Trial only)
+
 ## Structure
 
 ```
